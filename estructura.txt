@@ -1,0 +1,18 @@
+landing-page/
+├── assets/
+│   ├── videos/
+│   │   └── tech-wave.mp4 (o particles-bg.mp4)
+│   ├── images/
+│   │   └── blockchain-bg.jpg
+│   └── svg/
+│       ├── blockchain-logo.svg
+│       ├── wallet-icon.svg
+│       └── token-icon.svg
+├── css/
+│   ├── animate.min.css
+│   ├── font-awesome.min.css
+│   └── style.css
+└── js/
+    ├── gsap.min.js
+    ├── particles.min.js
+    └── script.js
